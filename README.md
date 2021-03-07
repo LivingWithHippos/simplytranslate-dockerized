@@ -1,5 +1,5 @@
 # simplytranslate-dockerized
-An open-source alternative frontend for Libre and Google translate. I just made this available for docker, [original project](https://git.sr.ht/~metalune/simplytranslate_web) by [metalune.](https://git.sr.ht/~metalune/)
+An open-source alternative frontend for Libre and Google translate. I just made this available for docker, [original project](https://git.sr.ht/~metalune/simplytranslate_web) by [metalune.](https://git.sr.ht/~metalune/) I also made a [gtranslate image](https://github.com/LivingWithHippos/gtranslate-dockerized), but it seems like it may be deprecated in favor of this project.
 
 The server is written in Python and run with [uvicorn.](https://www.uvicorn.org/)
 
